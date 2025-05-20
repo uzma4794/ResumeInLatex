@@ -6,7 +6,7 @@ This repository contains the LaTeX source code for my professional CV, written u
 
 ## 📂 Files Included
 
-- `resume.tex` – Main LaTeX source file
+- `main.tex` – Main LaTeX source file
 - `README.md` – Instructions and project overview
 
 ---
