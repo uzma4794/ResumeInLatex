@@ -27,7 +27,7 @@ You can easily compile and edit this CV using [Overleaf](https://www.overleaf.co
 
 3. **Upload to Overleaf**
    - Click on `New Project` → `Upload Project`
-   - Upload the entire folder or just `resume.tex`
+   - Upload the entire folder or just `main.tex`
 
 4. **Compile**
    - Overleaf will automatically compile the file
